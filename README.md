@@ -124,6 +124,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | 80% off · first 2 months | From $2.20 / month · first 2 months | `BFCM802` |
 | [DediRock](https://dedirock.com/) | See offer | $9.88 / year | — |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | 85% off · first month | $0.67 · first month | — |
+| [Faivelo](https://faivelo.com/black-friday) | 80% off | $12.00 / year | — |
 | [FlyWP](https://flywp.com/black-friday-deals/) | Lifetime offer | From $249.00 · lifetime | — |
 | [Hosting.com](https://hosting.com/black-friday/) | Up to 89% off | — | — |
 | [Hostinger](https://www.hostinger.com/black-friday) | Up to 85% off | From $2.24 / month · see billing term | — |
